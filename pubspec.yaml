@@ -1,9 +1,10 @@
 name: dart_sorted_list
 description: An implementation of the C# SortedList for Dart
-version: 1.0.0
+version: 1.0.1
+repository: https://github.com/tomasweigenast/dart-sorted-list
 
 environment:
-  sdk: '>=2.16.0-80.1.beta <3.0.0'
+  sdk: '>=2.14.0 <3.0.0'
 
 dev_dependencies:
   lints: ^1.0.0
