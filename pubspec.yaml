@@ -1,6 +1,6 @@
-name: dart_sorted_list
-description: An implementation of the C# SortedList for Dart
-version: 1.0.1
+name: sorted_collection
+description: An implementation of a sorted list for Dart.
+version: 1.0.0
 repository: https://github.com/tomasweigenast/dart-sorted-list
 
 environment:

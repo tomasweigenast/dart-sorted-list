@@ -1,6 +1,6 @@
 
 
-import 'package:dart_sorted_list/dart_sorted_list.dart';
+import 'package:sorted_collection/sorted_collection.dart';
 import 'package:test/test.dart';
 
 void main() {

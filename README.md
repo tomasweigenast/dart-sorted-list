@@ -1,4 +1,4 @@
-# SortedList
+# SortedCollection
 > An efficient way to sort lists at the time you add items.
 
 
